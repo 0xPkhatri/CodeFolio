@@ -62,4 +62,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-Project Link: [pkhatri.xyz](http://pkhatri.xyz/)
+Project Link: [pkhatri.xyz](http://pkhatri.xyz/){:target="\_blank"}

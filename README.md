@@ -23,7 +23,7 @@ A modern portfolio website built with Next.js, showcasing my projects and profes
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/0xPkhatri/CodeFolio.git
 ```
 
 2. Install dependencies:
@@ -62,6 +62,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
-
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [pkhatri.xyz](http://pkhatri.xyz/)
